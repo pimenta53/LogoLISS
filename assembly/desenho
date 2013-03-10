@@ -1,0 +1,279 @@
+pushi 0
+pushi 0
+pushi 0
+
+pushi 0
+pushi 500
+pushi 500
+opendrawingarea
+pushgp
+pushi 0
+pushi 200
+storen
+pushgp
+pushi 1
+pushi 200
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+storen
+pushgp
+pushi 1
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+loadn
+add
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+storen
+pushgp
+pushi 0
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 2
+loadn
+sub
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+storen
+pushgp
+pushi 1
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+loadn
+sub
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+storen
+pushgp
+pushi 0
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 2
+loadn
+add
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 150
+pushi -1
+mul
+storen
+pushgp
+pushi 1
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+loadn
+sub
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+PUSHI 4
+POPN
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+pushi -1
+mul
+storen
+pushgp
+pushi 1
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+loadn
+sub
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+pushi -1
+mul
+storen
+pushgp
+pushi 0
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 2
+loadn
+add
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+pushi -1
+mul
+storen
+pushgp
+pushi 1
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+loadn
+add
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+pushgp
+pushi 2
+pushi 100
+pushi -1
+mul
+storen
+pushgp
+pushi 0
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 2
+loadn
+sub
+storen
+pushgp
+pushi 0
+loadn
+pushgp
+pushi 1
+loadn
+DRAWLINE
+REFRESH
+stop

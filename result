@@ -1,0 +1,24 @@
+pushi 0
+pushi 0
+pushi 0
+
+pushi 0
+pushi 0
+start
+pushgp
+pushi 4
+loadn
+pushi 0
+add
+pushi 0
+equal
+not
+jz label1
+pushgp
+pushi 3
+pushi 5
+storen
+jump label2
+label1:
+label2:
+stop

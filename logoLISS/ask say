@@ -1,0 +1,11 @@
+PROGRAM IntegerTest {
+
+DECLARATIONS
+	intA -> INTEGER;
+
+STATEMENTS
+	SAY ( "teste ao programa" );
+	ASK ("qual o numero",intA); 
+
+}
+

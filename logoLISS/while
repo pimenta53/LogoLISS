@@ -1,0 +1,14 @@
+PROGRAM IntegerTest {
+
+DECLARATIONS
+	intA, intB -> INTEGER;
+	
+STATEMENTS
+	intA = 5;
+	intB = 0;
+
+	WHILE(intA > 0){
+		intB = intB + 1;
+		intA = intA - 1;
+	};
+}

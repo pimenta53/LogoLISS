@@ -1,0 +1,11 @@
+PROGRAM ola {
+
+DECLARATIONS
+   intA = 4, intB, intC = 6 -> INTEGER;
+   //c = [1,2,3],vector -> Array size 8;
+   //flag = FALSE -> BOOLEAN;
+
+STATEMENTS
+   IF (intA==4) { SAY("XUPAMOS"); }
+   ELSE { SAY("XUPA SO"); } ;
+}

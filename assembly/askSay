@@ -1,0 +1,18 @@
+pushi 0
+pushi 0
+pushi 0
+
+pushi 0
+pushi 500
+pushi 500
+opendrawingarea
+pushs "teste ao programa"
+writes
+pushgp
+pushi 3
+pushs"qual o numero"
+writes
+read
+atoi
+storen
+stop

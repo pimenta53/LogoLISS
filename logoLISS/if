@@ -1,0 +1,15 @@
+PROGRAM IntegerTest {
+
+DECLARATIONS
+	intA -> INTEGER;
+	
+STATEMENTS
+	intA = 5;
+		IF(intA == 5) THEN { 
+			intA = 15;
+		}
+		ELSE{
+			intA = 20;
+		};
+}
+
